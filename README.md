@@ -3,7 +3,6 @@
 **Statistics & Data Analytical Science student at Air University, Islamabad (class of 2029)**
 I clean messy data, run statistical analysis, and turn the results into clear dashboards.
 
-🌐 **Portfolio:** [awaishas221-max.github.io](https://awaishas221-max.github.io)
 💼 **LinkedIn:** [linkedin.com/in/awais-has](https://www.linkedin.com/in/awais-has)
 📧 **Email:** awaishas221@gmail.com
 
