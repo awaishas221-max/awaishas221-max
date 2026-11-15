@@ -54,4 +54,4 @@ I clean messy data, run statistical analysis, and turn the results into clear da
 - Google Data Analytics Professional Certificate
 - BCG: Introduction to Data for Decision Makers (job simulation)
 - Deloitte Australia: Data Analytics (job simulation)
-- [CodeAlpha: Data Analytics Virtual Internship Program (October 2026)
+- CodeAlpha: Data Analytics Virtual Internship Program (October 2026)
