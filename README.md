@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Awais Hassan 👋
 
 **Statistics & Data Analytical Science student at Air University, Islamabad (class of 2029)**
