@@ -18,7 +18,15 @@ I clean messy data, run statistical analysis, and turn the results into clear da
 | Web | HTML, CSS, Bootstrap |
 
 ---
+## 💼 Experience
 
+**Data Analytics Intern, CodeAlpha** (Remote) | September 2026
+
+- Built an interactive Tableau dashboard presenting e-commerce data through visual insights
+- Scraped 100 product records across categories, cleaned them with Pandas and NumPy, and ran EDA on prices, ratings, discounts, and stock using Matplotlib and Seaborn
+- **Tools:** Python, Pandas, NumPy, Tableau, Matplotlib, Seaborn, Jupyter Notebook
+
+---
 ## 📊 Featured Projects
 
 | Project | What it shows | Tools |
@@ -46,3 +54,4 @@ I clean messy data, run statistical analysis, and turn the results into clear da
 - Google Data Analytics Professional Certificate
 - BCG: Introduction to Data for Decision Makers (job simulation)
 - Deloitte Australia: Data Analytics (job simulation)
+- [CodeAlpha: Data Analytics Virtual Internship Program (October 2026)
